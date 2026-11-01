@@ -1,33 +1,29 @@
 # Hi, I'm Nuhu Basiru Haruna 👋
 
-### Aspiring Data Scientist | Statistics Graduate | Machine Learning & Data Analytics
+### Statistics Graduate | MSc Software Engineering Student | Data Science & Machine Learning
 
-I'm a **Statistics graduate** currently pursuing a **Master's degree in Software Engineering (Cloud Computing and Big Data)** at the University of Electronic Science and Technology of China (UESTC).
+I'm a Statistics graduate currently pursuing a **Master's degree in Software Engineering (Cloud Computing and Big Data)** at the **University of Electronic Science and Technology of China (UESTC)**.
 
-My interests include **Data Science, Machine Learning, Predictive Analytics, Big Data, and Cloud Computing**.
+My professional interests lie at the intersection of **Statistics, Data Science, Machine Learning, and Big Data Analytics**.
 
-I enjoy transforming complex datasets into meaningful insights, developing predictive models, and communicating analytical findings to support practical decision-making.
+I enjoy transforming complex datasets into actionable insights, building predictive models, and communicating analytical findings to support evidence-based decision-making.
 
-I'm actively building a portfolio of end-to-end Data Science projects and pursuing opportunities in **Data Science and Machine Learning**.
+I'm actively developing a portfolio of end-to-end Data Science projects and exploring opportunities in **Data Science, Machine Learning, and Data Analytics**.
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-**Programming & Databases**
-- Python, R, SQL, MySQL
-
-**Data Analysis & Visualization**
-- pandas, NumPy, Matplotlib, Excel, Tableau, SPSS
-
-**Machine Learning**
-- scikit-learn, CatBoost, Random Forest, Regression, Model Evaluation, Feature Engineering, SHAP
-
-**Development Tools**
-- Git, GitHub, Jupyter Notebook, Google Colab, VS Code
-
-**Additional Interests**
-- Cloud Computing, Big Data, Deep Learning, Data Engineering
+| Area | Technologies & Skills |
+|---|---|
+| **Programming** | Python, R, SQL |
+| **Databases** | MySQL, BigQuery |
+| **Data Analysis** | pandas, NumPy, Excel, SPSS |
+| **Data Visualization** | Matplotlib, Tableau |
+| **Machine Learning** | scikit-learn, CatBoost, Random Forest, Regression |
+| **Model Interpretation** | Feature Importance, SHAP |
+| **Development Tools** | Git, GitHub, Jupyter Notebook, Google Colab, VS Code |
+| **Areas of Interest** | Data Engineering, Big Data, Cloud Computing, Deep Learning |
 
 ---
 
@@ -37,75 +33,84 @@ I'm actively building a portfolio of end-to-end Data Science projects and pursui
 
 An end-to-end machine learning project investigating historical auction prices using **401,125 equipment transactions**.
 
-**What I implemented:**
-- Exploratory data analysis and statistical investigation
-- Data cleaning and feature engineering
-- Random Forest and CatBoost regression
-- Chronological model validation
-- Prediction-error analysis
-- Global feature importance and SHAP explanations
-- Reproducible Python modules and automated tests
+**Project highlights:**
 
-**Selected results:**
+- Conducted exploratory data analysis to investigate historical selling prices, equipment characteristics, and pricing patterns.
+- Cleaned inconsistent manufacturing-year and operating-hours information.
+- Engineered features for machine learning.
+- Developed Random Forest and CatBoost regression models.
+- Applied chronological validation across three historical periods.
+- Evaluated prediction errors and model limitations.
+- Implemented global feature importance and local SHAP explanations.
+- Organized the project into reusable Python modules with automated tests.
 
-| Model | Average Development-Validation MAE |
+**Selected development-validation results:**
+
+| Model | Average MAE |
 |---|---:|
-| Random Forest | **$7,553.74** |
+| **Random Forest** | **$7,553.74** |
 | CatBoost | $7,754.32 |
 
-*These results reflect historical development validation rather than independent future testing.*
+*The reported results represent historical development validation, not independent future testing.*
 
-[**Explore the complete project →**](https://github.com/Basiru-Haruna/used-heavy-equipment-price-prediction)
+🔗 **[Explore the complete project](https://github.com/Basiru-Haruna/used-heavy-equipment-price-prediction)**
+
+---
 
 ## 📚 Data Analysis Teaching & Knowledge Sharing
 
-Beyond building Data Science projects, I enjoy teaching statistics and helping students and researchers develop practical data analysis skills.
+I am passionate about making statistics and data analysis accessible to students, researchers, and professionals.
 
-Through my YouTube channel, **Basiru Haruna**, I share tutorials on statistical analysis using IBM SPSS Statistics.
+Through my YouTube channel, **Basiru Haruna**, I create educational tutorials demonstrating statistical analysis using **IBM SPSS Statistics**.
 
-My educational content covers topics such as:
+My tutorials cover:
 
-- Descriptive statistics and exploratory data analysis
-- Hypothesis testing and statistical inference
-- Correlation and regression analysis
-- Binary logistic regression
-- Reliability and validity testing
-- Interpretation and academic reporting of statistical results
+- Descriptive Statistics and Exploratory Data Analysis
+- Statistical Hypothesis Testing
+- Correlation and Regression Analysis
+- Binary Logistic Regression
+- Reliability and Validity Testing
+- Interpretation and Academic Reporting of Statistical Results
 
-My teaching approach emphasizes understanding statistical concepts, performing analyses correctly, and interpreting results in practical research contexts.
+My teaching emphasizes three important principles: **understanding statistical concepts, performing analyses correctly, and communicating results clearly**.
 
 🎥 **[Visit My YouTube Channel](https://www.youtube.com/@basiruharuna53)**
 
-💼 **[Connect With Me on LinkedIn](https://www.linkedin.com/in/basiru-haruna-nuhu-09020914a/)**
 ---
 
 ## 🔬 Research Interests
 
-I'm interested in applying statistical methods and machine learning to practical research problems, particularly in:
+My research interests include:
 
-- Predictive Modelling and Applied Machine Learning
+- Applied Machine Learning and Predictive Modelling
 - Medical Image Analysis and Deep Learning
 - Statistical Modelling and Data Analytics
+- Domain Generalization and Representation Learning
 - Big Data and Cloud Computing
 
-My current postgraduate research explores representation learning and cross-domain generalization for medical image analysis.
+My current postgraduate research explores **representation learning and cross-domain generalization for radiological image analysis**.
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Professional Goals
 
-- Strengthen my expertise in applied Data Science and Machine Learning.
-- Build a portfolio of reproducible, industry-relevant projects.
-- Develop practical data engineering and cloud computing skills.
-- Contribute to collaborative research and open-source projects.
-- Secure a professional opportunity in Data Science.
+- Develop practical expertise in end-to-end Data Science workflows.
+- Build reproducible, business-oriented machine learning projects.
+- Strengthen my SQL, Python, and data engineering capabilities.
+- Expand my knowledge of cloud computing and big data technologies.
+- Collaborate on applied research and open-source projects.
+- Pursue professional opportunities in Data Science and Machine Learning.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm open to Data Science opportunities, research collaborations, and discussions involving applied machine learning and analytics.
+I'm open to professional opportunities, research collaborations, and discussions about statistics, machine learning, and data analytics.
 
-**GitHub:** [Basiru-Haruna](https://github.com/Basiru-Haruna)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/basiru-haruna-nuhu-09020914a/)
 
-**Featured project:** [Used Heavy Equipment Price Prediction](https://github.com/Basiru-Haruna/used-heavy-equipment-price-prediction)
+🎥 **YouTube:** [Basiru Haruna — SPSS Data Analysis Tutorials](https://www.youtube.com/@basiruharuna53)
+
+💻 **GitHub:** [Basiru-Haruna](https://github.com/Basiru-Haruna)
+
+📊 **Featured Project:** [Used Heavy Equipment Price Prediction](https://github.com/Basiru-Haruna/used-heavy-equipment-price-prediction)
