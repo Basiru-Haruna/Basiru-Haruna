@@ -57,6 +57,26 @@ An end-to-end machine learning project investigating historical auction prices u
 
 [**Explore the complete project →**](https://github.com/Basiru-Haruna/used-heavy-equipment-price-prediction)
 
+## 📚 Data Analysis Teaching & Knowledge Sharing
+
+Beyond building Data Science projects, I enjoy teaching statistics and helping students and researchers develop practical data analysis skills.
+
+Through my YouTube channel, **Basiru Haruna**, I share tutorials on statistical analysis using IBM SPSS Statistics.
+
+My educational content covers topics such as:
+
+- Descriptive statistics and exploratory data analysis
+- Hypothesis testing and statistical inference
+- Correlation and regression analysis
+- Binary logistic regression
+- Reliability and validity testing
+- Interpretation and academic reporting of statistical results
+
+My teaching approach emphasizes understanding statistical concepts, performing analyses correctly, and interpreting results in practical research contexts.
+
+🎥 **[Visit My YouTube Channel](https://www.youtube.com/@basiruharuna53)**
+
+💼 **[Connect With Me on LinkedIn](https://www.linkedin.com/in/basiru-haruna-nuhu-09020914a/)**
 ---
 
 ## 🔬 Research Interests
